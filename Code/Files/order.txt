@@ -1,0 +1,14 @@
+[Soup]:0
+[Noodles]:0
+[Spring Onion]:0
+[Nori]:0
+[Chashu]:0
+[Boiled egg]:0
+[Spiciness]:0
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0

@@ -1,0 +1,843 @@
+OrderNumber:20200505001 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+OrderNumber:20200505002 USERID:82914812
+[Soup]:Tonkotsu
+[Noodles]:Medium
+[Spring Onion]:Just a little
+[Nori]:No
+[Chashu]:No
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:2
+[Add_ons]Bamboo shoots:3
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+OrderNumber:20200505003 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+OrderNumber:20200505004 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:1
+OrderNumber:20200513001 USERID:11111111
+[Soup]:Shoyu
+[Noodles]:Medium
+[Spring Onion]:Just a little
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:2
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200514001 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:2
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200514002 USERID:11111111
+[Soup]:Shoyu
+[Noodles]:Soft
+[Spring Onion]:A lot!
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:2
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200514003 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200514004 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200515001 USERID:11111111
+[Soup]:Shoyu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:No
+[Chashu]:No
+[Boiled egg]:No
+[Spiciness]:3
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:1
+[Add_ons]hhh:0
+OrderNumber:20200515002 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:No
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516001 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516002 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516003 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516004 USERID:68661312
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516005 USERID:68661312
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516006 USERID:68661312
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516007 USERID:68661312
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200516008 USERID:68661312
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200517001 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:3
+[Add_ons]hhh:0
+OrderNumber:20200517002 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200519001 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200519002 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:Yes
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:1
+[Add_ons]Extra boiled egg:2
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+OrderNumber:20200521001 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:2
+[Add_ons]Extra Nori:1
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524001 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:1
+[Add_ons]hhh:1
+[Add_ons]hahaha:1
+OrderNumber:20200524002 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:2
+[Add_ons]hhh:1
+[Add_ons]hahaha:1
+OrderNumber:20200524003 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:2
+OrderNumber:20200524004 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:1
+OrderNumber:20200524005 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:2
+OrderNumber:20200524006 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:1
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:3
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:0
+OrderNumber:20200524007 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:3
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:0
+OrderNumber:20200524008 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524009 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524010 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524011 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524012 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524013 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524014 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:1
+[Add_ons]hhh:2
+[Add_ons]hahaha:1
+OrderNumber:20200524015 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:1
+[Add_ons]hhh:1
+[Add_ons]hahaha:1
+OrderNumber:20200524016 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:1
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:3
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:2
+OrderNumber:20200524017 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:3
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:3
+[Add_ons]hhh:2
+[Add_ons]hahaha:1
+OrderNumber:20200524018 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:2
+[Add_ons]hhh:3
+[Add_ons]hahaha:1
+OrderNumber:20200524019 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:1
+OrderNumber:20200524020 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:3
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:1
+[Add_ons]hhh:1
+[Add_ons]hahaha:2
+OrderNumber:20200524021 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:1
+OrderNumber:20200524022 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:3
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:3
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:1
+OrderNumber:20200524023 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:2
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:3
+[Add_ons]hhh:3
+[Add_ons]hahaha:1
+OrderNumber:20200524024 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:3
+[Add_ons]Extra Chashu:3
+[Add_ons]tomato:2
+[Add_ons]hhh:3
+[Add_ons]hahaha:2
+OrderNumber:20200524025 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:2
+[Add_ons]hhh:1
+[Add_ons]hahaha:2
+OrderNumber:20200524026 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524027 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524028 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200524029 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:2
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:1
+[Add_ons]tomato:2
+[Add_ons]hhh:3
+[Add_ons]hahaha:2
+OrderNumber:20200524030 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:3
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:1
+[Add_ons]Extra Chashu:2
+[Add_ons]tomato:2
+[Add_ons]hhh:2
+[Add_ons]hahaha:1
+OrderNumber:20200525001 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:1
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:3
+[Add_ons]Extra Chashu:3
+[Add_ons]tomato:2
+[Add_ons]hhh:3
+[Add_ons]hahaha:4
+OrderNumber:20200525002 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200525003 USERID:null
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0
+OrderNumber:20200525004 USERID:11111111
+[Soup]:Tonkotsu
+[Noodles]:Soft
+[Spring Onion]:No please
+[Nori]:Yes
+[Chashu]:Yes
+[Boiled egg]:No
+[Spiciness]:0(No)
+[Add_ons]Extra Nori:0
+[Add_ons]Extra boiled egg:0
+[Add_ons]Bamboo shoots:0
+[Add_ons]Extra Chashu:0
+[Add_ons]tomato:0
+[Add_ons]hhh:0
+[Add_ons]hahaha:0

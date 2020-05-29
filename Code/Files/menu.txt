@@ -1,0 +1,14 @@
+[Soup]:9.99#Tonkotsu/Shoyu/Shio
+[Noodles]:0#Soft/Medium/Firm
+[Spring Onion]:0#No please/Just a little/A lot!
+[Nori]:0#Yes/No
+[Chashu]:0#Yes/No
+[Boiled egg]:0#No
+[Spiciness]:0#0(No)/1/2/3/4/5(Max)
+[Add_ons]Extra Nori:1#enough
+[Add_ons]Extra boiled egg:1#null
+[Add_ons]Bamboo shoots:1#enough
+[Add_ons]Extra Chashu:2#enough
+[Add_ons]tomato:2.99#enough
+[Add_ons]hhh:1#enough
+[Add_ons]hahaha:1.11#enough
